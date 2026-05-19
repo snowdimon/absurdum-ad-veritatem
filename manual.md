@@ -187,3 +187,7 @@ absurdum-ad-veritatem/
 ├── incident-log.md                    # Шаблон Журнала инцидентов
 ├── tool-application-matrix.md         # Матрица применения инструментов
 └── feedback-loop.md                   # Механизм обратной связи
+
+---
+
+© [Snowdimon], 2026. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
