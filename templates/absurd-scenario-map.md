@@ -51,3 +51,7 @@
 ---
 
 *Инструкция:* скопируйте эту таблицу в новый файл или Google-таблицу и заполните для всех критических правил вашей системы.
+
+---
+
+© [Snowdimon], 2026. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
