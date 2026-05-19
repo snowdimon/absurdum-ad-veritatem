@@ -62,3 +62,7 @@
 
 *Дата заполнения: ___________*
 *Подпись ведущего: ___________*
+
+---
+
+© [Snowdimon], 2026. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
