@@ -90,3 +90,7 @@ We have moved from **reacting** to **designing**.
 
 *This manifesto was born during the design of the interplanetary identity system IPIS/Duranki
 and is an open document for all architects of complex systems.*
+
+---
+
+© [Snowdimon], 2026. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
