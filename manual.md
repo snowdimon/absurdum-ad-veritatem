@@ -172,22 +172,4 @@ Duranki — проект межпланетной системы идентиф�
 
 ---
 
-## 7. Файловая структура репозитория
-
-absurdum-ad-veritatem/
-├── README.md                              # Манифест (RU)
-├── README_EN.md                           # Манифест (EN)
-├── manual.md                              # Этот файл — Руководство
-├── metrics/
-│   └── absurd-resilience-metrics.md       # Метрики с формулами и шкалами
-└── templates/
-├── absurd-scenario-map.md             # Шаблон Карты сценариев
-├── grotesque-prototyping-checklist.md # Чек-лист гротескного прототипирования
-├── stress-test-protocol.md            # Шаблон Протокола стресс-тестирования
-├── incident-log.md                    # Шаблон Журнала инцидентов
-├── tool-application-matrix.md         # Матрица применения инструментов
-└── feedback-loop.md                   # Механизм обратной связи
-
----
-
 © [Snowdimon], 2026. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
