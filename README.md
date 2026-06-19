@@ -88,8 +88,12 @@
 
 ---
 
-*Этот манифест родился в ходе проектирования межпланетной системы идентификации IPIS/Duranki
-и является открытым документом для всех архитекторов сложных систем.*
+## 🧭 Place in the Doctrine
+
+This document is part of the **[Doctrine of Systems Design](https://github.com/snowdimon/doctrina)** (Doctrina).
+
+- Before it: **[Anti-Icarus](https://github.com/snowdimon/anti-icarus)** — A visionary's viability protocol.
+- After it: **[Shadow Co-Author](https://github.com/snowdimon/shadow-coauthor)** — Preserving tacit knowledge.
 
 ---
 
